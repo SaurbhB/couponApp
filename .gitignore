@@ -1,0 +1,8 @@
+/node_modules
+/public
+/routes
+/views
+/database.js
+/userRegistration.js
+/cert.pem
+/key.pem
